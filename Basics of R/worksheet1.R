@@ -1,6 +1,6 @@
-#Anthony Grieco
-#Foundations of Data Science and Analytics
-#1/30/2024
+# Anthony Grieco
+# Foundations of Data Science and Analytics
+# 1/30/2024
 
 # install.packages('tidyverse')
 library(tidyverse) #(#1)
@@ -62,5 +62,7 @@ summary(df) #(#23)
 
 mtcars #(#24)
 
-attach(mtcars)
-plot(mpg, hp)  #(#25)
+cars <- data.matrix(mtcars)
+mpg <- cars[1:32]
+hp <- cars[97:128]
+plot (mpg, hp) #(#25)
