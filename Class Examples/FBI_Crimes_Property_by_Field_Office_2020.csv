@@ -1,0 +1,57 @@
+﻿NIBRS Offense Description,larceny_theft ,fraud,robbery,arson,extortion_blackmail,counterfeiting_forgery,embezzlement,vandalism
+Albany,0,13,2,0,0,1,0,0
+Albuquerque,0,12,10,0,1,0,0,0
+Anchorage,0,1,2,0,0,0,0,0
+Atlanta ,0,96,6,0,0,2,1,2
+Baltimore,0,8,4,0,0,2,0,2
+Birmingham ,0,23,2,0,0,0,0,2
+Boston ,0,97,31,0,0,0,5,4
+Buffalo,0,28,8,0,0,0,0,2
+Charlotte ,0,39,25,0,0,0,1,2
+Chicago,2,54,21,0,0,0,2,2
+Cincinnati ,0,17,2,0,0,0,0,5
+Cleveland ,0,40,15,0,0,0,1,0
+Columbia,0,23,1,0,0,0,2,0
+Dallas ,0,67,23,0,0,2,0,1
+Denver ,0,16,7,0,0,0,0,1
+Detroit ,2,37,13,0,0,2,2,0
+El Paso ,,14,,,,,5,1
+Honolulu,0,1,1,0,0,0,6,0
+Houston ,0,43,30,0,0,1,0,1
+Indianapolis ,0,30,15,0,0,2,2,3
+Jackson ,1,17,1,0,0,,0,1
+Jacksonville ,0,35,4,0,0,0,1,0
+Kansas City,0,66,10,0,0,0,0,1
+Knoxville ,0,18,6,0,0,0,0,1
+Las Vegas ,0,24,10,0,0,0,0,6
+Little Rock ,1,19,3,0,0,0,2,1
+Los Angeles ,1,117,7,0,0,0,1,4
+Louisville ,0,12,3,0,0,1,1,0
+Memphis ,0,13,12,0,0,0,0,1
+Miami ,0,136,21,0,0,0,1,2
+Milwaukee,0,12,1,0,0,0,0,0
+Minneapolis ,1,61,20,,,,2,2
+Mobile,0,3,7,0,0,0,0,0
+New Haven,0,10,3,0,0,0,0,0
+New Orleans ,0,8,14,0,0,0,0,0
+New York ,0,307,12,0,0,13,3,3
+Newark,0,108,11,0,1,0,0,5
+Norfolk ,0,26,0,0,0,0,1,0
+Oklahoma City ,,27,24,1,,,,
+Omaha,0,11,14,0,0,1,0,1
+Philadelphia,0,85,18,0,0,1,3,1
+Phoenix ,0,23,16,3,0,0,2,1
+Pittsburgh ,0,28,8,0,0,1,0,0
+Portland,0,12,11,0,0,0,1,0
+Richmond ,1,14,8,0,0,0,0,0
+Sacramento ,0,24,0,0,0,1,0,0
+Salt Lake City ,0,45,14,0,0,0,0,4
+St. Louis ,0,21,7,0,0,0,7,0
+San Antonio ,0,29,8,0,0,0,0,2
+San Diego ,0,17,5,0,0,0,0,0
+San Francisco,,23,5,,,3,,
+San Juan1,0,67,2,0,0,0,4,3
+Seattle ,0,27,2,2,0,0,2,2
+Springfield,0,14,0,0,0,1,0,0
+Tampa ,0,54,7,0,0,0,7,1
+"Washington, DC",0,63,9,0,0,1,2,5
